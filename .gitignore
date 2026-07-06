@@ -36,3 +36,7 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
+
+# Backup folders
+old/
+update/
